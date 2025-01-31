@@ -1,1 +1,1 @@
-This is a Alien shooting Game using Python OpenGL 
+This is an Alien shooting Game using Python OpenGL Project
